@@ -1,6 +1,6 @@
 ![](https://github.com/manonaSamir/manonaSamir/blob/main/mennaprofile.png)
-<font size ="2">
-1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)</size>
+<font size ="5">
+1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)
 2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
 3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
 4. [0x03-more_functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x03-more_functions_nested_loops)
@@ -27,5 +27,5 @@
 25. [0x18-stacks_queues_lifo_fifo](https://github.com/ibeckermayer/monty) ** Monty ByteCode Interpreter **
 26. [0x19-hash_tables](https://github.com/manonaSamir/0x19-hash_tables)
 27. [0x1A-sorting_algorithms](https://github.com/manonaSamir/0x1A-sorting_algorithms) ** Sorting algorithms project **
-28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **
+28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **</size>
 
