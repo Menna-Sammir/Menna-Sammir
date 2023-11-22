@@ -1,6 +1,6 @@
 ![](https://github.com/manonaSamir/manonaSamir/blob/main/mennaprofile.png)
-<h3>
-1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)</h3>
+
+1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)
 2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
 3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
 4. [0x03-more_functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x03-more_functions_nested_loops)
