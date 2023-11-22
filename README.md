@@ -27,5 +27,6 @@
 25. [0x18-stacks_queues_lifo_fifo](https://github.com/ibeckermayer/monty) ** Monty ByteCode Interpreter **
 26. [0x19-hash_tables](https://github.com/manonaSamir/0x19-hash_tables)
 27. [0x1A-sorting_algorithms](https://github.com/manonaSamir/0x1A-sorting_algorithms) ** Sorting algorithms project **
-28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **</size>
+28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **
+29. </font>
 
