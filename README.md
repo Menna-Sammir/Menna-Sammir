@@ -1,5 +1,5 @@
 ![](https://github.com/manonaSamir/manonaSamir/blob/main/mennaprofile.png)
-<font size ="5">
+<h3 size ="5">
 1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)
 2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
 3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
@@ -28,5 +28,5 @@
 26. [0x19-hash_tables](https://github.com/manonaSamir/0x19-hash_tables)
 27. [0x1A-sorting_algorithms](https://github.com/manonaSamir/0x1A-sorting_algorithms) ** Sorting algorithms project **
 28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **
-29. </font>
+29. </h3>
 
