@@ -1,4 +1,4 @@
-![](https://github.com/manonaSamir/manonaSamir/blob/main/menna.png)
+![](https://github.com/manonaSamir/manonaSamir/blob/main/profile.png)
 
 1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)
 2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)
