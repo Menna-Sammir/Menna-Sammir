@@ -1,6 +1,9 @@
 ![](https://github.com/manonaSamir/manonaSamir/blob/main/mennaprofile.png)
-<div style="color:red;font-size:20px;">
-<ol>
+<html><head><style>body {
+   font-size:18px;
+  font-family: Tahoma, sans-serif;
+}
+</style></head><body><ol>
 <li><a href="https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world">0x00-hello_world</a></li>
 <li><a href="https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while">0x01-variables_if_else_while</a></li>
 <li><a href="https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops">0x02-functions_nested_loops</a></li>
@@ -31,6 +34,4 @@
 <li><a href="https://github.com/manonaSamir/0x1B-makefiles">0x1B-makefiles</a> **</li>
 <li></li>
 </ol>
-
-
-</div>
+</body></html>
