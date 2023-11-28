@@ -1,6 +1,6 @@
 ![](https://github.com/manonaSamir/manonaSamir/blob/main/mennaprofile.png)
 
-| `C language ` | `Paython` |
+| `C language ` | `Python` |
 |  ---   |  ---   |
 |1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)| 1. [0x00-python-hello_world](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x00-python-hello_world) |
 |2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)| 2. [0x01. Python - if/else, loops, functions](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions)|
