@@ -4,8 +4,8 @@
 |  ---   |  ---   |
 |1. [0x00-hello_world](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x00-hello_world)| 1. [0x00-python-hello_world](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x00-python-hello_world) |
 |2. [0x01-variables_if_else_while](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x01-variables_if_else_while)| 2. [0x01. Python - if/else, loops, functions](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions)|
-|3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)| |
-|4. [0x03-more_functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x03-more_functions_nested_loops)| |
+|3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)| 3. [0x02-python-import_modules](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x02-python-import_modules)|
+|4. [0x03-more_functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x03-more_functions_nested_loops)|4. [0x03-python-data_structures](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x03-python-data_structures) |
 |5. [0x04-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x04-pointers_arrays_strings)| |
 |6. [0x05-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)| |
 |7. [0x06-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)| |
