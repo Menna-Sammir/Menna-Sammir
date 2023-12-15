@@ -25,8 +25,8 @@
 |21. [0x14-file_io](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x14-file_io)| |
 |22. [0x15-simple_shell](https://github.com/manonaSamir/simple_shell) ** C Shell project **| |
 |23. [0x17-doubly_linked_lists](https://github.com/manonaSamir/0x17-doubly_linked_lists)| |
-|24. [0x17-dynamic_libraries](https://github.com/manonaSamir/alx-low_level_programming/tree/main/)| |
-|25. [0x18-stacks_queues_lifo_fifo](https://github.com/ibeckermayer/monty) ** Monty ByteCode Interpreter **| |
+|24. [0x17-dynamic_libraries]([https://github.com/manonaSamir/alx-low_level_programming/tree/main/](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x18-dynamic_libraries))| |
+|25. [0x18-stacks_queues_lifo_fifo]([https://github.com/manonaSamir/monty](https://github.com/manonaSamir/monty)) ** Monty ByteCode Interpreter **| |
 |26. [0x19-hash_tables](https://github.com/manonaSamir/0x19-hash_tables)| |
 |27. [0x1A-sorting_algorithms](https://github.com/manonaSamir/0x1A-sorting_algorithms) ** Sorting algorithms project **| |
 |28. [0x1B-makefiles](https://github.com/manonaSamir/0x1B-makefiles) **| |
