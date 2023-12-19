@@ -7,7 +7,7 @@
 |3. [0x02-functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x02-functions_nested_loops)| 3. [0x02-python-import_modules](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x02-python-import_modules)|
 |4. [0x04-more_functions_nested_loops](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x04-more_functions_nested_loops)|4. [0x03-python-data_structures](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x03-python-data_structures) |
 |5. [0x05-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x05-pointers_arrays_strings)|5. [0x04-python-more_data_structures](https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x04-python-more_data_structures) |
-|6. [0x06-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)| |
+|6. [0x06-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)|6. [0x05-python-exceptions] (https://github.com/manonaSamir/alx-higher_level_programming/tree/master/0x05-python-exceptions) |
 |7. [0x06-pointers_arrays_strings](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings)| |
 |8. [0x07-recursion](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x07-recursion)| |
 |9. [0x08-static_libraries](https://github.com/manonaSamir/alx-low_level_programming/tree/main/0x08-static_libraries)| |
