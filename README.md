@@ -2,7 +2,7 @@
   <div style="flex: 1;">
 <img src="https://github.com/Menna-Sammir/p-issues/blob/main/menna.svg" alt="menna" >
 <img src="https://github.com/Menna-Sammir/p-issues/blob/main/65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile">
- <h3 style="color:rgb(228, 116, 248)">An individual who converts vague specifications and unrealistic expectations into usable software.</span>
+ <h3 style="color:rgb(228, 116, 248)">An individual who converts vague specifications and unrealistic expectations into usable software.</h3>
 
 <h3 style="color: #03a9f4"> Connect with me</h3>
 
