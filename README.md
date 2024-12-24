@@ -1,20 +1,20 @@
 <div style="display: flex; align-items:center">
   <div style="flex: 1;">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/menna.svg" alt="menna" >
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile">
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/menna.svg" alt="menna" />
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile" />
  <h3 style="color:rgb(228, 116, 248)">An individual who converts vague specifications and unrealistic expectations into usable software.</h3>
 
 <h3 style="color: #03a9f4"> Connect with me</h3>
 
 <p align="left">
  <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/6812670f47698281c529b99bd79f98c3_MD5.svg" alt="LinkedIn" width="40">
+  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/6812670f47698281c529b99bd79f98c3_MD5.svg" alt="LinkedIn" width="40" />
  </a>
  <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/google-color-svgrepo-com.svg" alt="Google" width="40">
+  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/google-color-svgrepo-com.svg" alt="Google" width="40" />
  </a>
  <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/d40a81956b3442b828fa7eb5ce19b36e_MD5.svg" alt="Twitter" width="40">
+  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/d40a81956b3442b828fa7eb5ce19b36e_MD5.svg" alt="Twitter" width="40" />
  </a>
 </p>
 
@@ -27,7 +27,7 @@
 </div>
 
 <p align="center" width="100%">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Languages_Frameworks_Tools_Abilities.svg" alt="title" >
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Languages_Frameworks_Tools_Abilities.svg" alt="title" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center" width="100%">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Github_State.svg" alt="state" >
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Github_State.svg" alt="state" />
 </p>
 
 <div style="display: flex; align-items:center">
