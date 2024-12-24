@@ -55,7 +55,7 @@
 </div>
 
 <p align="center" width="100%">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Github_profile_Trophy.svg" alt="state" >
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Github_profile_Trophy.svg" alt="state" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center" width="100%">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Problem_solving_State.svg" alt="state" >
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Problem_solving_State.svg" alt="state" />
 </p>
 
 <div style="display: flex; align-items:center">
@@ -71,17 +71,17 @@
        ![Leetcode Stats](https://leetcard.jacoblin.cool/mennaSamirr)
   </div>
   <div style="flex: 1;">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="50%">
+  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="50%" />
   </div>
 </div>
 
 <p align="center" width="100%">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Latest_Blog_Post.svg" alt="state" >
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/Latest_Blog_Post.svg" alt="state" />
 </p>
 
 <div style="display: flex; align-items:center">
   <div style="flex: 1;">
-       <img src="https://github.com/Menna-Sammir/p-issues/blob/main/fb0df3253e5d0a856f6232f3a7468ecd.gif" alt="Latest Blog Post">
+       <img src="https://github.com/Menna-Sammir/p-issues/blob/main/fb0df3253e5d0a856f6232f3a7468ecd.gif" alt="Latest Blog Post" />
 
   </div>
   <div style="flex: 2;">
