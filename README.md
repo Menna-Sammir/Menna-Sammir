@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,dotnet,flask,nestjs,nextjs,nodejs,graphql,postgres,mysql,html,css,bootstrap,tailwind,sass,jquery,threejs,react,redis,redux,regex,vim,bash,emacs,figma,git,github,heroku,jest,linux,md,nginx,notion,npm,prisma,gulp,rabbitmq,vercel,vim,xd,postman,cmake,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,dotnet,flask,nestjs,nextjs,nodejs,graphql,postgres,mysql,html,css,bootstrap,tailwind,sass,jquery,threejs,react,redis,redux,regex,vim,bash,emacs,figma,git,github,heroku,jest,linux,md,nginx,notion,npm,prisma,gulp,rabbitmq,vercel,vim,xd,postman,cmake,docker"  alt=""/>
   </a>
 </p>
 
@@ -42,7 +42,9 @@
 
 <div style="display: flex; align-items:center">
   <div style="flex: 1;">
-      ![GitHub Streak](https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899)
+
   </div>
   <div style="flex: 1; padding: 10px;">
 
@@ -59,7 +61,9 @@
 </p>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Menna-Sammir)]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Menna-Sammir)]
+
 </p>
 
 <p align="center" width="100%">
@@ -68,31 +72,34 @@
 
 <div style="display: flex; align-items:center">
   <div style="flex: 2;">
-       ![Leetcode Stats](https://leetcard.jacoblin.cool/mennaSamirr)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mennaSamirr)
+
   </div>
   <div style="flex: 1;">
   <img src="https://github.com/Menna-Sammir/p-issues/blob/main/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="50%" />
   </div>
 </div>
 
-<p align="center" width="100%">
+<div align="center" width="100%">
+
 <img src="https://github.com/Menna-Sammir/p-issues/blob/main/Latest_Blog_Post.svg" alt="state" />
-</p>
+
+</div>
 
 <div style="display: flex; align-items:center">
   <div style="flex: 1;">
-       <img src="https://github.com/Menna-Sammir/p-issues/blob/main/fb0df3253e5d0a856f6232f3a7468ecd.gif" alt="Latest Blog Post" />
 
-  </div>
-  <div style="flex: 2;">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="https://github.com/Menna-Sammir/p-issues/blob/main/fb0df3253e5d0a856f6232f3a7468ecd.gif" alt="Latest Blog Post" />
 
   </div>
 </div>
 
 
-<p align="center">
+<div style="display: flex; align-items:center">
+  <div style="flex: 2;">
+
 ![Snake animation](https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg)
-</p>
+
+  </div>
+</div>
