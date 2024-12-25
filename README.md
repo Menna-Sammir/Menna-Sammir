@@ -39,6 +39,11 @@
 </div>
 <div align=center>
     <img align="left" width=50% src="fb0df3253e5d0a856f6232f3a7468ecd.gif" />
+   <div align="right">
+      # Blog posts
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
+   </div>
 </div>
 <div style="display: flex; align-items:center">
   <div style="flex: 2;">
