@@ -31,7 +31,7 @@
 <img src="Problem_solving_State.svg" width="45%" alt="state" />
 </p>
 <div align=center>
-    <img align="left" width=40% src="https://leetcard.jacoblin.cool/mennaSamirr" />
+    <img align="left" width=40% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
     <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="30%" />
 </div>
 <div align="center" width="100%">
