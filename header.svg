@@ -3,20 +3,20 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div style="display: flex; justify-content: space-between; align-items: center;">
           <div>
-            <img src="menna.svg" alt="menna" />
+            <img src="/menna.svg" alt="menna" />
 
-            <img src="65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile" />
+            <img src="/65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile" />
 
           <h3 style="color: #E474F8;">An individual who converts vague specifications and unrealistic expectationsinto usable software.</h3>
           <h3 style="color: #03A9F4;">Connect with me</h3>
 
-            <img src="6812670f47698281c529b99bd79f98c3_MD5.svg" alt="LinkedIn" width="40" />
+            <img src="/6812670f47698281c529b99bd79f98c3_MD5.svg" alt="LinkedIn" width="40" />
 
-            <img src="google-color-svgrepo-com.svg" alt="Google" width="40" />
+            <img src="/google-color-svgrepo-com.svg" alt="Google" width="40" />
 
-            <img src="40a81956b3442b828fa7eb5ce19b36e_MD5.svg" alt="Twitter" width="40" />
+            <img src="/40a81956b3442b828fa7eb5ce19b36e_MD5.svg" alt="Twitter" width="40" />
         </div>
-        <img width="390" alt="🦑" src="71e5a5443b2f54d91a32d63b4baa897a_MD5.gif" />
+        <img width="390" alt="🦑" src="/71e5a5443b2f54d91a32d63b4baa897a_MD5.gif" />
       </div>
     </div>
   </foreignObject>
