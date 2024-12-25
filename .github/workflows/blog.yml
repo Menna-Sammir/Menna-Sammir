@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@menna20.samir,https://www.linkedin.com/in/menna-samir-3a391a127/recent-activity/articles/"
+          feed_list: "https://medium.com/feed/@menna20.samir"
