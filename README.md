@@ -42,6 +42,6 @@
 </div>
 <div style="display: flex; align-items:center">
   <div style="flex: 2;">
-     ![Snake animation](https://raw.githubusercontent.com/Menna-Sammir/Menna-Sammir/output/github-contribution-grid-snake-dark.svg)
+     ![snake animation](https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
