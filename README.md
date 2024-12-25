@@ -1,30 +1,8 @@
-<div style="display: flex; align-items:center">
-  <div style="flex: 1;">
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/menna.svg" alt="menna" />
-<img src="https://github.com/Menna-Sammir/p-issues/blob/main/65cdd14fd4bb06ef30853bd818b51cbd_MD5.svg" alt="Profile" />
- <h3 style="color:rgb(228, 116, 248)">An individual who converts vague specifications and unrealistic expectations into usable software.</h3>
 
-<h3 style="color: #03a9f4"> Connect with me</h3>
-
-<p align="left">
- <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/6812670f47698281c529b99bd79f98c3_MD5.svg" alt="LinkedIn" width="40" />
- </a>
- <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/google-color-svgrepo-com.svg" alt="Google" width="40" />
- </a>
- <a href="">
-  <img src="https://github.com/Menna-Sammir/p-issues/blob/main/d40a81956b3442b828fa7eb5ce19b36e_MD5.svg" alt="Twitter" width="40" />
- </a>
+<p align="center" width="100%">
+<img src="https://utfs.io/f/k6CHuxRFGuOvIeIFbk1U8klrojHQONCX7n4dApefL6y1Y3uq" alt="title" />
 </p>
 
-  </div>
-  <div style="flex: 1; padding: 10px;">
-
-![](https://github.com/Menna-Sammir/p-issues/blob/main/71e5a5443b2f54d91a32d63b4baa897a_MD5.gif)
-
-  </div>
-</div>
 
 <p align="center" width="100%">
 <img src="https://github.com/Menna-Sammir/p-issues/blob/main/Languages_Frameworks_Tools_Abilities.svg" alt="title" />
