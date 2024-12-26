@@ -3,13 +3,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1 {
-            background: linear-gradient(to right, #ec4899, #8b5cf6);
+            background-image: linear-gradient(to right, rgb(219, 39, 119), rgb(30, 64, 175));
             width: fit-content;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            font-size: 20px;
             margin: 0;  /* Reset margin */
             padding: 0; /* Reset padding */
+            font-size: 20px;
             text-align: center;
         }
 
