@@ -1,9 +1,8 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <img align="right" src="https://utfs.io/f/k6CHuxRFGuOvexSid5MXBD8qYcLln0zh6pZdUwOKgWsVbjPH" width="390" alt="🦑" />
   <div>
-    <img src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
-    <img src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
-    <h3 style="color: #E474F8;"></h3>
+    <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
+    <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
 
 ## $\textsf{{\color[rgb]{0.5294, 0.3333, 0.6}An individual who converts vague specifications and unrealistic expectations into usable software.}}$
 
@@ -46,17 +45,17 @@
 </div>
 <br/>
 <p align="center" width="100%">
-<img  src="Github_profile_Trophy.svg" alt="state" />
+<img  src="Github_profile_Trophy.svg" width="60%" height="20%" alt="state" />
 </p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" alt="mennaSamir" />
 <p align="center" width="100%">
 <img src="Problem_solving_State.svg" alt="state" />
 </p>
-<div align=center width="100%">
-    <img align="left" width=40% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
-    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="15%" />
+<div align="center" width="100%">
+    <img align="left" width=50% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
+    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="30%" height="10%" />
 </div>
-<br/>
+<br /><br /><br/>
 <p align="center" width="100%">
 <img src="Latest_Blog_Post.svg" alt="state" />
 </p>
