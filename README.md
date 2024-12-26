@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-</head>
-<body>
 <div
   style="display: flex; justify-content: space-between; align-items: center"
 >
@@ -138,5 +132,3 @@
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&textBg=false"
   />
-</body>
-</html>
