@@ -40,8 +40,8 @@
 <img align="center" src="assets/Github_State.svg" width="40%" height="20%" alt="state" />
 </p>
 <div align="center" width="100%">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
-     <img align="right" src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" width="50%" />
+     <img align="right" width="50%" src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
 </div>
 
 <p align="center" width="100%">
