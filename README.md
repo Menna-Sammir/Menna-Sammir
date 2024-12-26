@@ -4,9 +4,7 @@
     <img src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
     <img src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
     <h3 style="color: #E474F8;">An individual who converts vague specifications and unrealistic expectations into usable software.</h3>
-
     ## $\textsf{{\color[rgb]{30.0, 136.0, 229.0}Con}{\color[rgb]{3.0, 169.0, 244.9}nect~ }{\color[rgb]{83.2, 198.0, 218.8}wi }{\color[rgb]{0.3, 0.0, 0.7}th~ }{\color[rgb]{0.4, 0.0, 0.6}me}}$
-
     <a href="https://www.linkedin.com/in/menna-samir-3a391a127/" target="_blank"><img src="https://utfs.io/f/k6CHuxRFGuOvCq4g3MzwwGlHKiAjydI6BOoFDSae5c3srY9R" alt="LinkedIn" width="40" /></a>
     <a href="mailto:menna20.samir@gmail.com" target="_blank">  <img src="https://utfs.io/f/k6CHuxRFGuOvSSirT3phbueVXDx6p1O04Hvy9CoPQfcRwtk8" alt="Google" width="40" /></a>
     <a href="https://x.com/MennaMoham13513" target="_blank"> <img src="https://utfs.io/f/k6CHuxRFGuOvfMZeyKWOeqT1iPAl5GnWOX03FD8QULmhvYwf" alt="Twitter" width="40" /></a>
@@ -15,19 +13,14 @@
 <p align="center" width="100%">
 <img width="85%" src="Languages_Frameworks_Tools_Abilities.svg" alt="title" />
 </p>
-
 ## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ba}{\color[rgb]{0.1, 0.0, 0.9}ck}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,py,dotnet,flask,nestjs,nodejs,graphql,postgres,mysql,prisma,rabbitmq,jest"  alt=""/>
 </p>
-
 ## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Fro}{\color[rgb]{0.1, 0.0, 0.9}nt}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,ts,bootstrap,tailwind,sass,jquery,threejs,react,redis,redux,regex,figma,xd"  alt=""/>
 </p>
-
 ## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Too}{\color[rgb]{0.1, 0.0, 0.9}ls~ }{\color[rgb]{0.2, 0.0, 0.8}&~ }{\color[rgb]{0.3, 0.0, 0.7}Util}{\color[rgb]{0.4, 0.0, 0.6}it}{\color[rgb]{0.5, 0.0, 0.5}ies}{\color[rgb]{0.6, 0.0, 0.4}!}}$
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vim,bash,emacs,git,github,heroku,linux,md,nginx,notion,npm,prisma,gulp,vercel,vim,postman,cmake,docker"  alt=""/>
