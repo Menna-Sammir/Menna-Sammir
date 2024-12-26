@@ -1,22 +1,21 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-   <img align="right" src="assets/k6CHuxRFGuOvexSid5MXBD8qYcLln0zh6pZdUwOKgWsVbjPH.gif" width="390" alt="🦑" />
-  <div>
+  <div align="left">
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
 
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications}}$
-
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}and unrealistic expectations into usable software.}}$
 
 ### $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Con}{\color[rgb]{0.0118, 0.6627, 0.9569}nect~ }{\color[rgb]{0.1490, 0.7765, 0.8549}wi}{\color[rgb]{0.1490, 0.7765, 0.8549}th~ }{\color[rgb]{0.1176, 0.5333, 0.8980}me}}$
 
-<br/>
+<br>
     <a href="https://www.linkedin.com/in/menna-samir-3a391a127/" target="_blank"><img src="https://utfs.io/f/k6CHuxRFGuOvCq4g3MzwwGlHKiAjydI6BOoFDSae5c3srY9R" alt="LinkedIn" width="40" /></a>
     <a href="mailto:menna20.samir@gmail.com" target="_blank">  <img src="https://utfs.io/f/k6CHuxRFGuOvSSirT3phbueVXDx6p1O04Hvy9CoPQfcRwtk8" alt="Google" width="40" /></a>
     <a href="https://x.com/MennaMoham13513" target="_blank"> <img src="https://utfs.io/f/k6CHuxRFGuOvfMZeyKWOeqT1iPAl5GnWOX03FD8QULmhvYwf" alt="Twitter" width="40" /></a>
   </div>
+   <img align="right" src="assets/k6CHuxRFGuOvexSid5MXBD8qYcLln0zh6pZdUwOKgWsVbjPH.gif" width="390" alt="🦑" />
 </div>
-<br />
+<br>
 
 <p align="left" width="100%">
    
@@ -48,7 +47,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" width="45%" />
      <img align="right" width="45%" src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
 </div>
-<br />
+<br>
 
 <div style="display: flex; justify-content: left; align-items: center; width:100%" width="100%"> 
 
@@ -59,24 +58,20 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" width="100%" alt="mennaSamir" />
 </p>
 
-<div style="display:block; text-align:left" width="100%"> 
+<div style="display:block; text-align:left" width="100%">
    
 # Problem-solving State
 </div>
 
 <div style="display: flex; justify-content: left; align-items: center; width:100%" width="100%"> 
-    <img align="left" src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
-   
+    <img align="left" src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />   
     <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" />
 </div>
-
 <br/>
-
 <div style="display:block; text-align:left" width="100%"> 
    
 # Latest Blog Post
 </p>
-
 <br/>
 <div style="display: flex; justify-content: left; align-items: center; width:100%" width="100%"> 
 <!-- BLOG-POST-LIST:START -->
