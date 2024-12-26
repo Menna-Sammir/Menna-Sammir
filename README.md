@@ -56,12 +56,9 @@
 </div>
 <br />
 <div align=center>
-    <img align="left" width=50% src="da7ce7c138f7c0a602e6f1547c3885d7_MD5.gif" />
-   <div align="left">
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-   </div>
    <br />
 </div>
 <br />
