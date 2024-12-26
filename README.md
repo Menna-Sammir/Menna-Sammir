@@ -4,7 +4,7 @@
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
 
-### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications}}$
+# $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications}}$
 
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}and unrealistic expectations into usable software.}}$
 
