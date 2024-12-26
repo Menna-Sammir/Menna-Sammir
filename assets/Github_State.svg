@@ -1,0 +1,21 @@
+<svg fill="none" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1 {
+          background: linear-gradient(to right, #ec4899, #8b5cf6);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0;  /* Reset margin */
+          font-size: 20px;
+          padding: 0; /* Reset padding */
+        }
+        body {
+          margin: 0;
+          padding: 0;
+        }
+      </style>
+      <h1 class="container"> Github State </h1>
+    </div>
+  </foreignObject>
+</svg>

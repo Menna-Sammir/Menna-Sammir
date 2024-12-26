@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-   <img align="right" src="https://utfs.io/f/k6CHuxRFGuOvexSid5MXBD8qYcLln0zh6pZdUwOKgWsVbjPH" width="390" alt="🦑" />
+   <img align="right" src="assets/k6CHuxRFGuOvexSid5MXBD8qYcLln0zh6pZdUwOKgWsVbjPH.gif" width="390" alt="🦑" />
   <div>
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
     <img align="left" src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
@@ -16,7 +16,7 @@
 </div>
 <br />
 <p align="center" width="100%">
-<img src="Languages_Frameworks_Tools_Abilities.svg" width="60%" height="20%" alt="title" />
+<img src="assets/Languages_Frameworks_Tools_Abilities.svg" width="60%" height="20%" alt="title" />
 </p>
 
 ## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ba}{\color[rgb]{0.1, 0.0, 0.9}ck}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=vim,bash,emacs,git,github,heroku,linux,md,nginx,notion,npm,prisma,gulp,vercel,vim,postman,cmake,docker"  alt=""/>
 </p>
 <p align="center" width="100%">
-<img align="center" src="Github_State.svg" width="40%" height="20%" alt="state" />
+<img align="center" src="assets/Github_State.svg" width="40%" height="20%" alt="state" />
 </p>
 <div align="center" width="100%">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
@@ -45,21 +45,21 @@
 </div>
 
 <p align="center" width="100%">
-<img align="center" src="Github_profile_Trophy.svg" width="40%" height="20%" alt="state" />
+<img align="center" src="assets/Github_profile_Trophy.svg" width="40%" height="20%" alt="state" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" width="100%" alt="mennaSamir" />
 </p>
 
-<div align="center" style="flex: 1; padding: 10px;">
-<img align="center" src="Problem_solving_State.svg" width="50%" height="20%" alt="state" />
+<div align="center"  width="100%" style="padding: 10px;">
+<img align="center" src="assets/Problem_solving_State.svg" width="50%" height="20%" alt="state" />
 </div>
 <p align="center" width="100%">
     <img align="left" src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
-    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" />
+    <img align="right" src="assets/8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" />
 </p>
 <p align="center" width="100%">
 </p>
 <div align="center" width="100%" style="padding: 10px;">
-<img align="center" src="Latest_Blog_Post.svg" width="50%" height="20%" alt="state" />
+<img align="center" src="assets/Latest_Blog_Post.svg" width="50%" height="20%" alt="state" />
 </div>
 <br />
 <p align="center" width="100%">
