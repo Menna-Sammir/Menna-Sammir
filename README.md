@@ -8,7 +8,7 @@
 
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}and unrealistic expectations into usable software.}}$
 
-#### $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Con}{\color[rgb]{0.0118, 0.6627, 0.9569}nect~ }{\color[rgb]{0.1490, 0.7765, 0.8549}wi}{\color[rgb]{0.1490, 0.7765, 0.8549}th~ }{\color[rgb]{0.1176, 0.5333, 0.8980}me}}$
+### $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Con}{\color[rgb]{0.0118, 0.6627, 0.9569}nect~ }{\color[rgb]{0.1490, 0.7765, 0.8549}wi}{\color[rgb]{0.1490, 0.7765, 0.8549}th~ }{\color[rgb]{0.1176, 0.5333, 0.8980}me}}$
 
 <br/>
     <a href="https://www.linkedin.com/in/menna-samir-3a391a127/" target="_blank"><img src="https://utfs.io/f/k6CHuxRFGuOvCq4g3MzwwGlHKiAjydI6BOoFDSae5c3srY9R" alt="LinkedIn" width="40" /></a>
