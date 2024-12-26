@@ -45,9 +45,10 @@
 </div>
 
 <p align="center" width="100%">
-<img align="center" src="assets/Github_profile_Trophy.svg" width="40%" height="20%" alt="state" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" width="100%" alt="mennaSamir" />
+<img align="center" src="assets/Github_profile_Trophy.svg" width="50%" height="20%" alt="state" />
 </p>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" width="100%" alt="mennaSamir" />
+
 
 <div align="center"  width="100%" style="padding: 10px;">
 <img align="center" src="assets/Problem_solving_State.svg" width="50%" height="20%" alt="state" />
