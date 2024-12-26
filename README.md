@@ -4,7 +4,9 @@
     <img src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z" alt="menna" />
     <img src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat" alt="Profile" />
     <h3 style="color: #E474F8;">An individual who converts vague specifications and unrealistic expectations into usable software.</h3>
-    <h3 style="color: #03A9F4;">Connect with me</h3>
+
+    ## $\textsf{{\color[rgb]{30.0, 136.0, 229.0}Con}{\color[rgb]{3.0, 169.0, 244.9}nect~ }{\color[rgb]{83.2, 198.0, 218.8}wi }{\color[rgb]{0.3, 0.0, 0.7}th~ }{\color[rgb]{0.4, 0.0, 0.6}me}}$
+
     <a href="https://www.linkedin.com/in/menna-samir-3a391a127/" target="_blank"><img src="https://utfs.io/f/k6CHuxRFGuOvCq4g3MzwwGlHKiAjydI6BOoFDSae5c3srY9R" alt="LinkedIn" width="40" /></a>
     <a href="mailto:menna20.samir@gmail.com" target="_blank">  <img src="https://utfs.io/f/k6CHuxRFGuOvSSirT3phbueVXDx6p1O04Hvy9CoPQfcRwtk8" alt="Google" width="40" /></a>
     <a href="https://x.com/MennaMoham13513" target="_blank"> <img src="https://utfs.io/f/k6CHuxRFGuOvfMZeyKWOeqT1iPAl5GnWOX03FD8QULmhvYwf" alt="Twitter" width="40" /></a>
@@ -13,8 +15,22 @@
 <p align="center" width="100%">
 <img width="85%" src="Languages_Frameworks_Tools_Abilities.svg" alt="title" />
 </p>
+
+## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ba}{\color[rgb]{0.1, 0.0, 0.9}ck}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,dotnet,flask,nestjs,nextjs,nodejs,graphql,postgres,mysql,html,css,bootstrap,tailwind,sass,jquery,threejs,react,redis,redux,regex,vim,bash,emacs,figma,git,github,heroku,jest,linux,md,nginx,notion,npm,prisma,gulp,rabbitmq,vercel,vim,xd,postman,cmake,docker"  alt=""/>
+    <img src="https://skillicons.dev/icons?i=c,cs,py,dotnet,flask,nestjs,nodejs,graphql,postgres,mysql,prisma,rabbitmq,jest"  alt=""/>
+</p>
+
+## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Fro}{\color[rgb]{0.1, 0.0, 0.9}nt}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,ts,bootstrap,tailwind,sass,jquery,threejs,react,redis,redux,regex,figma,xd"  alt=""/>
+</p>
+
+## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Too}{\color[rgb]{0.1, 0.0, 0.9}ls~ }{\color[rgb]{0.2, 0.0, 0.8}&~ }{\color[rgb]{0.3, 0.0, 0.7}Util}{\color[rgb]{0.4, 0.0, 0.6}it}{\color[rgb]{0.5, 0.0, 0.5}ies}{\color[rgb]{0.6, 0.0, 0.4}!}}$
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vim,bash,emacs,git,github,heroku,linux,md,nginx,notion,npm,prisma,gulp,vercel,vim,postman,cmake,docker"  alt=""/>
 </p>
 <p align="center" width="100%">
 <img src="Github_State.svg" width="35%" alt="state" />
@@ -38,13 +54,10 @@
 <img src="Latest_Blog_Post.svg" width="35%" alt="state" />
 </div>
 <div align=center>
-    <img align="left" width=50% src="fb0df3253e5d0a856f6232f3a7468ecd.gif" />
+    <img align="left" width=50% src="da7ce7c138f7c0a602e6f1547c3885d7_MD5.gif" />
    <div align="right">
-     <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+     <!-- BLOG-POST-LIST:START -->
+     <!-- BLOG-POST-LIST:END -->
    </div>
 </div>
-<div style="display: flex; align-items:center">
-  <div style="flex: 2;">
-     <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
-  </div>
-</div>
+  <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
