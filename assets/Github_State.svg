@@ -8,6 +8,7 @@
           -webkit-text-fill-color: transparent;
           margin: 0;  /* Reset margin */
           font-size: 20px;
+          text-align: center;
           padding: 0; /* Reset padding */
         }
         body {
