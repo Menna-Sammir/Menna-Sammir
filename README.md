@@ -48,14 +48,14 @@
 <p align="center" width="100%">
 <img src="Problem_solving_State.svg" alt="state" />
 </p>
-<div align=center>
+<div align=center width="100%">
     <img align="left" width=40% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
     <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="15%" />
 </div>
 <br/>
-<div align="center" width="100%">
+<p align="center" width="100%">
 <img src="Latest_Blog_Post.svg" alt="state" />
-</div>
+</p>
 
 <div align="center" width="70%">
 
