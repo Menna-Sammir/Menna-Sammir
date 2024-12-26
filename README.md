@@ -40,6 +40,7 @@
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
      <img align="right" width=390 src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
 </div>
+<br/>
 <p align="center" width="100%">
 <img  width="35%" src="Github_profile_Trophy.svg" alt="state" />
 </p>
@@ -52,18 +53,19 @@
     <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="15%" />
 </div>
 <div align="center" width="100%">
+<br/>
 <img src="Latest_Blog_Post.svg" width="45%" alt="state" />
 </div>
-<br />
-<div align="center" width="100%">
+
+<div align="center" width="70%">
    
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking the Future of Databases: Why Choose Prisma and PostgreSQL Together?](https://medium.com/@menna20.samir/unlocking-the-future-of-databases-why-choose-prisma-and-postgresql-together-143e95b80127?source=rss-01c97f3061d0------2)
 - [How to start your first professional  project from scratch for beginners](https://medium.com/@menna20.samir/how-to-start-your-first-professional-project-from-scratch-for-beginners-fd57862196b4?source=rss-01c97f3061d0------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+
 </div>
-<br />
+<br/>
 <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
 
