@@ -50,7 +50,9 @@
     <img align="left" width=50% src="da7ce7c138f7c0a602e6f1547c3885d7_MD5.gif" />
    <div align="right">
      <!-- BLOG-POST-LIST:START -->
-     <!-- BLOG-POST-LIST:END -->
+- [Unlocking the Future of Databases: Why Choose Prisma and PostgreSQL Together?](https://medium.com/@menna20.samir/unlocking-the-future-of-databases-why-choose-prisma-and-postgresql-together-143e95b80127?source=rss-01c97f3061d0------2)
+- [How to start your first professional  project from scratch for beginners](https://medium.com/@menna20.samir/how-to-start-your-first-professional-project-from-scratch-for-beginners-fd57862196b4?source=rss-01c97f3061d0------2)
+<!-- BLOG-POST-LIST:END -->
    </div>
 </div>
   <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
