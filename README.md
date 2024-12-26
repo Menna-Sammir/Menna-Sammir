@@ -16,7 +16,7 @@
 </div>
 <br />
 <p align="center" width="100%">
-<img src="Languages_Frameworks_Tools_Abilities.svg" alt="title" />
+<img src="Languages_Frameworks_Tools_Abilities.svg" width="60%" height="20%" alt="title" />
 </p>
 
 ## $\textsf{{\color[rgb]{0.0, 0.0, 1.0}Ba}{\color[rgb]{0.1, 0.0, 0.9}ck}{\color[rgb]{0.2, 0.0, 0.8}end~ }{\color[rgb]{0.3, 0.0, 0.7}fr}{\color[rgb]{0.4, 0.0, 0.6}ame}{\color[rgb]{0.5, 0.0, 0.5}wor}{\color[rgb]{0.6, 0.0, 0.4}k}}$
@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=vim,bash,emacs,git,github,heroku,linux,md,nginx,notion,npm,prisma,gulp,vercel,vim,postman,cmake,docker"  alt=""/>
 </p>
 <p align="center" width="100%">
-<img src="Github_State.svg" alt="state" />
+<img src="Github_State.svg" width="60%" height="20%" alt="state" />
 </p>
 <div align=center>
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
@@ -49,7 +49,7 @@
 </p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" alt="mennaSamir" />
 <p align="center" width="100%">
-<img src="Problem_solving_State.svg" alt="state" />
+<img src="Problem_solving_State.svg" width="60%" height="20%" alt="state" />
 </p>
 <div align="center" width="100%">
     <img align="left" width=50% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
@@ -57,7 +57,7 @@
 </div>
 <br /><br /><br/>
 <p align="center" width="100%">
-<img src="Latest_Blog_Post.svg" alt="state" />
+<img src="Latest_Blog_Post.svg" width="60%" height="20%" alt="state" />
 </p>
 <br />
 <p align="center" width="100%">
