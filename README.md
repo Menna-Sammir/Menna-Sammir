@@ -40,32 +40,35 @@
 <img align="center" src="Github_State.svg" width="40%" height="20%" alt="state" />
 </p>
 <div align="center" width="100%">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
-     <img align="right" width="45%" src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" />
+     <img align="right" src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899" alt="mennaSamir" />
 </div>
-<br/>
+
 <p align="center" width="100%">
-<img align="center" src="Github_profile_Trophy.svg" width="50%" height="20%" alt="state" />
+<img align="center" src="Github_profile_Trophy.svg" width="40%" height="20%" alt="state" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir" width="100%" alt="mennaSamir" />
 </p>
 
-<div style="flex: 1; padding: 10px;">
-<img align="center" src="Problem_solving_State.svg" width="30%" height="20%" alt="state" />
+<div align="center" style="flex: 1; padding: 10px;">
+<img align="center" src="Problem_solving_State.svg" width="50%" height="20%" alt="state" />
 </div>
 <p align="center" width="100%">
-    <img align="left" width=50% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
-    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="300" />
+    <img align="left" src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
+    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" />
 </p>
-<br /><br /><br/>
 <p align="center" width="100%">
-<img align="center" src="Latest_Blog_Post.svg" width="40%" height="20%" alt="state" />
 </p>
+<div align="center" width="100%" style="padding: 10px;">
+<img align="center" src="Latest_Blog_Post.svg" width="50%" height="20%" alt="state" />
+</div>
 <br />
 <p align="center" width="100%">
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future of Databases: Why Choose Prisma and PostgreSQL Together?](https://medium.com/@menna20.samir/unlocking-the-future-of-databases-why-choose-prisma-and-postgresql-together-143e95b80127?source=rss-01c97f3061d0------2)
-- [How to start your first professional  project from scratch for beginners](https://medium.com/@menna20.samir/how-to-start-your-first-professional-project-from-scratch-for-beginners-fd57862196b4?source=rss-01c97f3061d0------2)
+
 <!-- BLOG-POST-LIST:END -->
 </p>
 <br/>
 <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&textBg=false" />
+
