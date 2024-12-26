@@ -49,17 +49,19 @@
 </p>
 <div align=center>
     <img align="left" width=40% src="https://leetcard.jacoblin.cool/mennaSamirr?radius=20" />
-    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="30%" />
+    <img align="right" src="8d2ca07f421f05dbb51fcef0a6cab7f4_MD5.gif" alt="Coding Animation" width="25%" />
 </div>
 <div align="center" width="100%">
-<img src="Latest_Blog_Post.svg" width="35%" alt="state" />
+<img src="Latest_Blog_Post.svg" width="45%" alt="state" />
 </div>
 <br />
-<div align=center>
+<div align="center" width="100%">
+   
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-   <br />
+
+<br />
 </div>
 <br />
 <img align="center" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg" />
