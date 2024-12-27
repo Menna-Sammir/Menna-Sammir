@@ -84,13 +84,14 @@
       width="100%"
     >
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58"
+        src="https://github-readme-stats.vercel.app/api?username=Menna-Sammir&border_radius=20&show_icons=true&theme=transparent&title_color=EC4899&icon_color=EC4899&rank_icon=github&ring_color=EC4899&text_color=434d58" width="45%"
       />
       <img
         src="https://streak-stats.demolab.com?user=Menna-Sammir&border_radius=20&short_numbers=true&stroke=EC4899&fire=EC4899&currStreakLabel=EC4899&ring=EC4899"
-        alt="mennaSamir"
+        alt="mennaSamir" width="45%"
       />
     </div>
+    <hr />
     <h2>Github Trophy</h2>
     <img
       align="center"
