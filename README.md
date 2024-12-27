@@ -115,6 +115,8 @@
     />
   </div>
   <br/>
+  ---
+  ___
   <h2>Latest Blog Post</h2>
   <br />
   <p align="center" width="100%">
