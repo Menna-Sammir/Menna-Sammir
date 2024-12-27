@@ -6,20 +6,16 @@
   <body>
      <table style="border-collapse: collapse; border: none;" border="0" width="100%">
           <tr>
-            <td style="border-collapse: collapse; border: none;">        
-              <img
-               align="left"
-               src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z"
-               alt="menna"
-             />
-             <img
+            <td style="border-collapse: collapse; border: none;">
+              
+  # $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Men}{\color[rgb]{0.000, 0.725, 1.000}na~ }{\color[rgb]{0.000, 0.600, 1.000}Sam}{\color[rgb]{0.384, 0.424, 0.980}ir~ }{\color[rgb]{0.3, 0.0,0.7}Moh}{\color[rgb]{0.4, 0.0, 0.6}am}{\color[rgb]{0.5,0.0,0.5}med}}$
+  <img
                align="left"
                src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat"
                alt="Profile"
              />
               
-### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications}}$
-### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}and unrealistic expectations into usable software.}}$
+### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications and unrealistic expectations into usable software.}}$
 ### $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Con}{\color[rgb]{0.0118, 0.6627, 0.9569}nect~ }{\color[rgb]{0.1490, 0.7765, 0.8549}wi}{\color[rgb]{0.1490, 0.7765, 0.8549}th~ }{\color[rgb]{0.1176, 0.5333, 0.8980}me}}$
 <a
                href="https://www.linkedin.com/in/menna-samir-3a391a127/"
@@ -119,10 +115,8 @@
    <h2>Latest Blog Post</h2>
     <br />
     <p align="center" width="100%">
-      <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Future of Databases: Why Choose Prisma and PostgreSQL Together?](https://medium.com/@menna20.samir/unlocking-the-future-of-databases-why-choose-prisma-and-postgresql-together-143e95b80127?source=rss-01c97f3061d0------2)
-- [How to start your first professional  project from scratch for beginners](https://medium.com/@menna20.samir/how-to-start-your-first-professional-project-from-scratch-for-beginners-fd57862196b4?source=rss-01c97f3061d0------2)
-<!-- BLOG-POST-LIST:END -->
+      <!-- BLOG-POST-LIST:START -->       
+      <!-- BLOG-POST-LIST:END -->
     </p>
     <br />
     <img align="center" width="100%" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg"
