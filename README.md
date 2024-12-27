@@ -1,7 +1,7 @@
 <div
   style="display: flex; justify-content: space-between; align-items: center"
 >
-  <div style="flex: 1">
+  <div style="flex: 2">
     <img
       align="left"
       src="https://utfs.io/f/k6CHuxRFGuOvmt38XLgOG3y980JQr2McgNAfaeRCSHjnp76Z"
