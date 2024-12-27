@@ -12,13 +12,14 @@
       src="https://utfs.io/f/k6CHuxRFGuOvFQep2YCDec2uQI9po8jyWkBg1wUi4XsCzZat"
       alt="Profile"
     />
-    
+<p align="left">  
+
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}An individual who converts vague specifications}}$
 
 ### $\textsf{{\color[rgb]{0.4, 0.0, 0.6}and unrealistic expectations into usable software.}}$
 
 ### $\textsf{{\color[rgb]{0.1176, 0.5333, 0.8980}Con}{\color[rgb]{0.0118, 0.6627, 0.9569}nect~ }{\color[rgb]{0.1490, 0.7765, 0.8549}wi}{\color[rgb]{0.1490, 0.7765, 0.8549}th~ }{\color[rgb]{0.1176, 0.5333, 0.8980}me}}$
-
+</p>
   <a
       href="https://www.linkedin.com/in/menna-samir-3a391a127/"
       target="_blank"
@@ -91,7 +92,7 @@
       alt="mennaSamir"
     />
   </div>
-  <h2>Github Trophy</h2>
+  <h2 style="display:block"> Github Trophy </h2>
   <img
     align="center"
     src="https://github-profile-trophy.vercel.app/?username=Menna-Sammir"
