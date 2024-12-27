@@ -115,8 +115,10 @@
    <h2>Latest Blog Post</h2>
     <br />
     <p align="center" width="100%">
-      <!-- BLOG-POST-LIST:START -->       
-      <!-- BLOG-POST-LIST:END -->
+      <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Future of Databases: Why Choose Prisma and PostgreSQL Together?](https://medium.com/@menna20.samir/unlocking-the-future-of-databases-why-choose-prisma-and-postgresql-together-143e95b80127?source=rss-01c97f3061d0------2)
+- [How to start your first professional  project from scratch for beginners](https://medium.com/@menna20.samir/how-to-start-your-first-professional-project-from-scratch-for-beginners-fd57862196b4?source=rss-01c97f3061d0------2)
+<!-- BLOG-POST-LIST:END -->
     </p>
     <br />
     <img align="center" width="100%" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg"
