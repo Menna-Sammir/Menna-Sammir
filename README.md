@@ -112,8 +112,6 @@
         alt="Coding Animation"
       />
     </div>
-    <hr width="100%" />
-   
-    <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&textBg=false" />
+    <hr width="100%" />  
   </body>
 </html>
