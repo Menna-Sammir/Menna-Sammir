@@ -113,12 +113,7 @@
       />
     </div>
     <hr width="100%" />
-   <h2>Latest Blog Post</h2>
-    <br />
-
-    <br />
-    <img align="center" width="100%" src="https://github.com/Menna-Sammir/Menna-Sammir/blob/output/github-contribution-grid-snake.svg"
-    />
+   
     <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&textBg=false" />
   </body>
 </html>
